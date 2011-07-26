@@ -1,6 +1,7 @@
 # I made some change in here
 # Thank you for starting wih RoR
 
+# This change is made on new-branch
 
 == Welcome to Rails
 
