@@ -1,3 +1,7 @@
+# I made some change in here
+# Thank you for starting wih RoR
+
+
 == Welcome to Rails
 
 Rails is a web-application framework that includes everything needed to create
